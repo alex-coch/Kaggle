@@ -1,2 +1,7 @@
 # Kaggle
-A collection of Kaggle solutions
+Kaggle name
+dataset/problem description
+loading data
+model to solve the problem
+results
+future work and exercises
