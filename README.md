@@ -13,3 +13,9 @@
 - You <a href=https://www.kaggle.com/competitions/sf-dst-restaurant-rating>need to create a model</a> that will predict the rating of the restaurant according to TripAdvidor.
 - Model: Random Forest
 
+### <a href=notebookf57d97d448.ipynb>Prediction of user churn</a>
+- You will have to learn how to simulate the <a href=https://www.kaggle.com/competitions/advanced-dls-spring-2021
+>outflow</a> of telecom company customers.
+- Model: Stacking (Logistic Regression, CatBoost, KNN, Random Forest)
+
+
