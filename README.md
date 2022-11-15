@@ -19,5 +19,5 @@
 
 
 ### <a href=notebook38cda55794-booking.ipynb>Prediction the hotel rating on Booking</a>
-- One of the company's problems is dishonest hotels that wind up rating themselves. One of the ways to find such hotels is to build a model that predicts the rating of the hotel.
+- One of the <a href=https://www.kaggle.com/competitions/sf-booking>company's problems</a> is dishonest hotels that wind up rating themselves. One of the ways to find such hotels is to build a model that predicts the rating of the hotel.
 - Model: Random Forest
