@@ -25,6 +25,5 @@
 
 ### <a href=lightautoml-competition-baseline.ipynb>Prediction the car price</a>
 - A company sells <a href=https://www.kaggle.com/competitions/sf-dst-predict-car-price>used cars</a>, and at some point a manager comes to you with a proposal to build a model to predict the adequate cost of the car based on its characteristics from the ad.
-- One of the <a href=https://www.kaggle.com/competitions/sf-booking>company's problems</a> is dishonest hotels that wind up rating themselves. One of the ways to find such hotels is to build a model that predic>
 - Model: LightAutoML
 
