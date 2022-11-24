@@ -28,5 +28,5 @@
 - Model: LightAutoML
 
 ### <a href=classification-transfer-learning.ipynb>Journey to Springfield</a>
-- Train <a href=https://www.kaggle.com/competitions/journey-springfield>a classifier based on convolutional networks</a> to learn how to distinguish all residents of Springfield..
+- Train <a href=https://www.kaggle.com/competitions/journey-springfield>a classifier based on Convolutional Networks</a> to learn how to distinguish all residents of Springfield..
 - Model: CNN
