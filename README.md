@@ -27,3 +27,6 @@
 - A company sells <a href=https://www.kaggle.com/competitions/sf-dst-predict-car-price>used cars</a>, and at some point a manager comes to you with a proposal to build a model to predict the adequate cost of the car based on its characteristics from the ad.
 - Model: LightAutoML
 
+### <a href=classification-transfer-learning.ipynb>Journey to Springfield</a>
+- Train <a href=https://www.kaggle.com/competitions/journey-springfield>a classifier based on convolutional networks</a> to learn how to distinguish all residents of Springfield..
+- Model: CNN
