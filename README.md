@@ -30,3 +30,7 @@
 ### <a href=classification-transfer-learning.ipynb>Journey to Springfield</a>
 - Train <a href=https://www.kaggle.com/competitions/journey-springfield>a classifier based on Convolutional Networks</a> to learn how to distinguish all residents of Springfield..
 - Model: CNN
+
+### <a href=notebook-new-york-city-taxi-trip-duration.ipynb>New York City Taxi Trip Duration</a>
+- Build a model that predicts the total ride <a href=https://www.kaggle.com/competitions/nyc-taxi-trip-duration>duration of taxi trips</a> in New York City
+- Model: RandomForest
