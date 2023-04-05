@@ -34,3 +34,7 @@
 ### <a href=notebook-new-york-city-taxi-trip-duration.ipynb>New York City Taxi Trip Duration</a>
 - Build a model that predicts the total ride <a href=https://www.kaggle.com/competitions/nyc-taxi-trip-duration>duration of taxi trips</a> in New York City
 - Model: RandomForest
+
+### <a href=capture-recognition.ipynb>Capture recongnition</a>
+- A problem from the field of computer vision is <a href=https://www.kaggle.com/competitions/sf-captcha-recognition>proposed</a> – recognition of the letters of the English alphabet on distorted and noisy images
+- Model: CNN
