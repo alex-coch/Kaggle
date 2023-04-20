@@ -37,4 +37,8 @@
 
 ### <a href=capture-recognition.ipynb>Capture recongnition</a>
 - A problem from the field of computer vision is <a href=https://www.kaggle.com/competitions/sf-captcha-recognition>proposed</a> – recognition of the letters of the English alphabet on distorted and noisy images
-- Model: CNN
+- Model: 
+
+### <a href=fine-tuning-bert-ludwig-sf-nlp-movie-genre.ipynb>Text classification</a>
+- The <a href=https://www.kaggle.com/competitions/sf-dl-movie-genre-classification>task</a> is to predict the genre of the film (for example, comedy, drama, etc.) from a brief description of the plot.
+- Model: BERT
