@@ -50,3 +50,7 @@
 ### <a href=text-classification-sentiment-analysis.ipynb>Text classification (Sentiment analysis)</a>
 - The objective of this <a href=https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech>task</a> is to detect hate speech in tweets.
 - Model: CNN
+
+### <a href=rnn-for-sequences.ipynb>Text classification (Sentiment analysis)</a>
+- The objective of this <a href=https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech>task</a> is to predict of sentiment messages from tweets.
+- Model: RNN (GRU/LSTM)
