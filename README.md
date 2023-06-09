@@ -47,10 +47,10 @@
 - The <a href=https://www.kaggle.com/datasets/olekslu/makeup-lips-segmentation-28k-samples>dataset</a> proposes to check skills in mastering of determination of lips' position on photos.
 - Model: Linknet
 
-### <a href=text-classification-sentiment-analysis.ipynb>Text classification (Sentiment analysis)</a>
+### <a href=text-classification-sentiment-analysis.ipynb>Text classification</a>
 - The objective of this <a href=https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech>task</a> is to detect hate speech in tweets.
 - Model: CNN
 
-### <a href=rnn-for-sequences.ipynb>Text classification (Sentiment analysis)</a>
+### <a href=rnn-for-sequences.ipynb>Sentiment analysis</a>
 - The objective of this <a href=https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech>task</a> is to predict of sentiment messages from tweets.
 - Model: RNN (GRU/LSTM)
